@@ -1,0 +1,759 @@
+{
+    "lens_id": "",
+    "document_id": "LTGlPOHuDd57MTkFFyHd",
+    "original_document_id": "LTGlPOHuDd57MTkFFyHd",
+    "version": "24",
+    "lastChanged": "1594482455989",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "0076216664292_0_A1C1_0600-removebg-preview (2)"
+                    ],
+                    [
+                        "1x-removebg-preview"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Face-Mask-Heritage-Patch-removebg-preview"
+                    ],
+                    [
+                        "Mask Maschera Sticker"
+                    ],
+                    [
+                        "Modern_Telecommunications_Logo-removebg-preview"
+                    ],
+                    [
+                        "Modern_Telecommunications_Logo__1_-removebg-preview"
+                    ],
+                    [
+                        "images-removebg-preview"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "831be1450165ccdabf56ea036d814dac",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_find_face"
+            ],
+            "lens": "Next Tech",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 5.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1594473249742714:15324",
+                    "1594473404487642:37489"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1594473238448800:13950",
+                    "name": "Files\/File8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1594478275234740:637058",
+                    "name": "Files\/File24.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1594478275568003:637482",
+                    "name": "Files\/File28.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1594478275795959:637629",
+                    "name": "Files\/File30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1594478663157470:688712",
+                    "name": "Files\/File32.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1594479655368600:851635",
+                    "name": "Files\/File40.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1594479891727276:881474",
+                    "name": "Files\/File42.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1594473262758307:16846",
+                "4": "1594473404487642:37489",
+                "5": "1594475030666470:233202",
+                "6": "1594475030686272:233207"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.gif"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.png"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Mask Maschera Sticker.gif"
+                    },
+                    {
+                        "k": "978",
+                        "v": "images-removebg-preview.png"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Face-Mask-Heritage-Patch-removebg-preview.png"
+                    },
+                    {
+                        "k": "981",
+                        "v": "0076216664292_0_A1C1_0600-removebg-preview (2).png"
+                    },
+                    {
+                        "k": "982",
+                        "v": "1x-removebg-preview.png"
+                    },
+                    {
+                        "k": "986",
+                        "v": "Modern_Telecommunications_Logo-removebg-preview.png"
+                    },
+                    {
+                        "k": "987",
+                        "v": "Modern_Telecommunications_Logo__1_-removebg-preview.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "415f2d5f6a4bdcc2c7fb988c3b79cb8e"
+                    },
+                    {
+                        "k": "969",
+                        "v": "b9f9ae715e3a3878f949a06491baff04"
+                    },
+                    {
+                        "k": "970",
+                        "v": "f95990f8b00ce66662257f9eb0b3ae2d"
+                    },
+                    {
+                        "k": "971",
+                        "v": "f95990f8b00ce66662257f9eb0b3ae2d"
+                    },
+                    {
+                        "k": "972",
+                        "v": "b9f9ae715e3a3878f949a06491baff04"
+                    },
+                    {
+                        "k": "973",
+                        "v": "9c6ad8912a2ad2e5309558308cc7ad7c"
+                    },
+                    {
+                        "k": "974",
+                        "v": "e34dc138a077f4d3ba6eca217841766d"
+                    },
+                    {
+                        "k": "975",
+                        "v": "ba81962d7b7064e8a5e7983ac45618ed"
+                    },
+                    {
+                        "k": "976",
+                        "v": "9522ae3dff8feb41e65b3cc62ad844cb"
+                    },
+                    {
+                        "k": "977",
+                        "v": "9e99f1c532422fe9266bae083289b5e0"
+                    },
+                    {
+                        "k": "978",
+                        "v": "2856490435b1dda4dbd229223c68e551"
+                    },
+                    {
+                        "k": "979",
+                        "v": "8181192438a76c863db78cf86618d814"
+                    },
+                    {
+                        "k": "980",
+                        "v": "9522ae3dff8feb41e65b3cc62ad844cb"
+                    },
+                    {
+                        "k": "981",
+                        "v": "ba81962d7b7064e8a5e7983ac45618ed"
+                    },
+                    {
+                        "k": "982",
+                        "v": "9b6ab16895f81a6368328c92a0163dd2"
+                    },
+                    {
+                        "k": "983",
+                        "v": "a0ab741996cbeacffeec464f8770816f"
+                    },
+                    {
+                        "k": "984",
+                        "v": "0505f73b25a65ad75be0357a818870b8"
+                    },
+                    {
+                        "k": "985",
+                        "v": "f1340fb15b2833345fe771c52094a7bf"
+                    },
+                    {
+                        "k": "986",
+                        "v": "fb57251adbadf22819a73d946b4b5d5d"
+                    },
+                    {
+                        "k": "987",
+                        "v": "f3de261dfd624b164c8a533f87233fbd"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-07-11T20:34:51",
+                        "name": "Public",
+                        "hash": "142be43d3e819095048f3deb6caf0482",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-11T19:30:45",
+                                "name": "0076216664292_0_A1C1_0600-removebg-preview (2).png",
+                                "hash": "ba81962d7b7064e8a5e7983ac45618ed",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-11T20:14:19",
+                                "name": "1x-removebg-preview.png",
+                                "hash": "9b6ab16895f81a6368328c92a0163dd2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-11T20:00:14",
+                                "name": "Face-Mask-Heritage-Patch-removebg-preview.png",
+                                "hash": "9522ae3dff8feb41e65b3cc62ad844cb",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-11T20:07:27",
+                                "name": "images-removebg-preview.png",
+                                "hash": "2856490435b1dda4dbd229223c68e551",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-11T18:43:57",
+                                "name": "Mask Maschera Sticker.gif",
+                                "hash": "415f2d5f6a4bdcc2c7fb988c3b79cb8e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-11T20:30:49",
+                                "name": "Modern_Telecommunications_Logo-removebg-preview.png",
+                                "hash": "fb57251adbadf22819a73d946b4b5d5d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-11T20:34:49",
+                                "name": "Modern_Telecommunications_Logo__1_-removebg-preview.png",
+                                "hash": "f3de261dfd624b164c8a533f87233fbd",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mask Maschera Sticker",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "uid": "1594473238448800:13950",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "images-removebg-preview",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "20",
+                        "dependency": "0",
+                        "uid": "1594478275234740:637058",
+                        "fileId": "24",
+                        "originalId": "25",
+                        "publicId": "978",
+                        "source": "C:\/Users\/Karthik\/Desktop\/images-removebg-preview.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face-Mask-Heritage-Patch-removebg-preview",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1594478275568003:637482",
+                        "fileId": "28",
+                        "originalId": "29",
+                        "publicId": "980",
+                        "source": "C:\/Users\/Karthik\/Desktop\/Face-Mask-Heritage-Patch-removebg-preview.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "0076216664292_0_A1C1_0600-removebg-preview (2)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "uid": "1594478275795959:637629",
+                        "fileId": "30",
+                        "originalId": "31",
+                        "publicId": "981",
+                        "source": "C:\/Users\/Karthik\/Desktop\/0076216664292_0_A1C1_0600-removebg-preview (2).png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "1x-removebg-preview",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "uid": "1594478663157470:688712",
+                        "fileId": "32",
+                        "originalId": "33",
+                        "publicId": "982",
+                        "source": "C:\/Users\/Karthik\/Downloads\/1x-removebg-preview.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Modern_Telecommunications_Logo-removebg-preview",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "uid": "1594479655368600:851635",
+                        "fileId": "40",
+                        "originalId": "41",
+                        "publicId": "986",
+                        "source": "C:\/Users\/Karthik\/Downloads\/Modern_Telecommunications_Logo-removebg-preview.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Modern_Telecommunications_Logo__1_-removebg-preview",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "29",
+                        "dependency": "0",
+                        "uid": "1594479891727276:881474",
+                        "fileId": "42",
+                        "originalId": "43",
+                        "publicId": "987",
+                        "source": "C:\/Users\/Karthik\/Downloads\/Modern_Telecommunications_Logo__1_-removebg-preview.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
